@@ -88,7 +88,7 @@ int main (int argc, char **argv)
         printf("Invalid input : %d\n", argc);
         printf("Help section\n"
                 "=====================================\n"
-                "Enter 5 arguments:\n"
+                "Enter 3 arguments:\n"
                 "1. Outgoing Interface Name\n"
                 "2. Source IPV6 Address\n"
                 "3. ICMPV6 Target IP Address\n"
