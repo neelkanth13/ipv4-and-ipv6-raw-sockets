@@ -14,3 +14,4 @@ From Linux Man Page:
 https://neelquestforlearning.blogspot.com/2020/05/ipv6-neighbor-discovery-protocols.html
 https://neelquestforlearning.blogspot.com/2020/05/c-program-on-icmpv6-neighbor.html
 https://neelquestforlearning.blogspot.com/2020/05/icmpv6-neighboradvertisement.html
+https://neelquestforlearning.blogspot.com/2020/05/icmpv6-router-solicitation.html
